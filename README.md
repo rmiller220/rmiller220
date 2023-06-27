@@ -86,8 +86,5 @@ I am a current student at Turing School of Software Development. I also have a b
 <img src="https://media.tenor.com/FRi5efWsLMwAAAAM/calgary-flames-elias-lindholm.gif" align="center" style="width: 100%" /><br>
 I believe in great teamwork!</div>  
 
-<div align="center"></div>
 <br />
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>

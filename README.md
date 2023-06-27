@@ -58,12 +58,12 @@ I am a current student at Turing School of Software Development. I also have a b
 
 ## Connect with me  
 <div align="center">
-<a href="https://github.com/rmiller220" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
 <a href="https://linkedin.com/in/reilly-miller-6b6131266/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
+<a href="mailto:reillyjmiller31@gmail.com" target="_blank">
+<img src=https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white alt=gmail style="margin-bottom: 5px;" />
+</a>
 </div>  
   
 

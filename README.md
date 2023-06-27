@@ -1,8 +1,3 @@
-<div align="center">
-<img src="https://media.tenor.com/FRi5efWsLMwAAAAM/calgary-flames-elias-lindholm.gif" align="center" style="width: 100%" />
-</div>  
-  
-
 ### <div align="center">Hello 👋 I'm Reilly, a software developer 👨‍💻 
 I am a current student at Turing School of Software Development. I also have a bachelor's degree in nonprofit business management from Indiana University. I want combine these skills and knowledge to help improve people's lives. Ideally, I will help provide a path towards upward mobility, where education and healthcare are affordable and available to everyone.</div>  
   
@@ -14,9 +9,6 @@ I am a current student at Turing School of Software Development. I also have a b
   
 
 - 📘 I want to learn Python, C#  
-  
-
-<br/>  
 
 
 ## My Skill Set  
@@ -84,21 +76,15 @@ I am a current student at Turing School of Software Development. I also have a b
 <br/>  
 
 
-## Recent Blog Posts  
-  
-
-<br/>  
-
-  
-
-<br/>  
-
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=rmiller220&&style=flat-square" align="center" />
 </div>  
   
-
 <br/>  
+<br/>  
+<div align="center">
+<img src="https://media.tenor.com/FRi5efWsLMwAAAAM/calgary-flames-elias-lindholm.gif" align="center" style="width: 100%" /><br>
+I believe in great teamwork!</div>  
 
 <div align="center"></div>
 <br />

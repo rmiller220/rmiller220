@@ -8,7 +8,7 @@ I am a current student at Turing School of Software Development. I also have a b
 - 🌱 I’m currently learning Python and Django and building a new app called [StreetEatz](https://github.com/streeteatz)
   
 
-- 📘 I want to learn Python, C#  
+- 📘 I want to learn React.js and C#  
 
 
 ## My Skill Set  

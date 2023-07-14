@@ -5,7 +5,7 @@ I am a current student at Turing School of Software Development. I also have a b
 - 🔭 Recently Finished [PlayPal](https://github.com/CrowRising/PlayPal-FE)  
   
 
-- 🌱 I’m currently learning Python and Django   
+- 🌱 I’m currently learning Python and Django and building a new app called [StreetEatz](https://github.com/streeteatz)
   
 
 - 📘 I want to learn Python, C#  

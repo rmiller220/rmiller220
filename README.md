@@ -1,5 +1,5 @@
 ### <div align="center">Hello 👋 I'm Reilly, a software developer 👨‍💻 
-I am a current student at Turing School of Software Development. I also have a bachelor's degree in nonprofit business management from Indiana University. I want combine these skills and knowledge to help improve people's lives. Ideally, I will help provide a path towards upward mobility, where education and healthcare are affordable and available to everyone.</div>  
+I am a recent graduate from the Turing School of Software Development. I also have a bachelor's degree in nonprofit business management from Indiana University. I want combine these skills and knowledge to help improve people's lives. Improving people's lives can come in many forms, whether that is providing accessible and affordable healthcare and education, or aiding in the implementation and transition into renewable energies. If you are looking for a problem solver that is eager to learn, grow, and make a positive impact, then look no further!</div>  
   
 
 - 🔭 Recently Finished [PlayPal](https://github.com/CrowRising/PlayPal-FE)  

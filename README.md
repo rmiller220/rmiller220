@@ -2,13 +2,14 @@
 I am a recent graduate from the Turing School of Software Development. I also have a bachelor's degree in nonprofit business management from Indiana University. I want combine these skills and knowledge to help improve people's lives. Improving people's lives can come in many forms, whether that is providing accessible and affordable healthcare and education, or aiding in the implementation and transition into renewable energies. If you are looking for a problem solver that is eager to learn, grow, and make a positive impact, then look no further!</div>  
   
 
-- 🔭 Recently Finished [PlayPal](https://github.com/CrowRising/PlayPal-FE)  
+- 🔭 Recently Finished [StreetEatz](https://github.com/streeteatz)  
   
 
-- 🌱 I’m currently learning Python and Django and building a new app called [StreetEatz](https://github.com/streeteatz)
-  
+- 🧠 I’m currently working on an app that will create a gambling model called [NBA_betting_stats](https://github.com/rmiller220/nba_betting_stats)
 
-- 📘 I want to learn React.js and C#  
+- 🌱 I am also volunteering with Out Boulder County's Inclusive Care Colorado Project, which will be a responsive web app that will connect affirming mental and physical healthcare providers to LGBTQ+ people
+  
+- 📘 I want to learn React.js and Java  
 
 
 ## My Skill Set  

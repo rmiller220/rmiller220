@@ -9,7 +9,7 @@ I am a recent graduate from the Turing School of Software Development. I also ha
 
 - 🌱 I am also volunteering with Out Boulder County's Inclusive Care Colorado Project, which will be a responsive web app that will connect affirming mental and physical healthcare providers to LGBTQ+ people
   
-- 📘 I want to learn React.js and Java  
+- 📘 I am studying to get my AWS certification  
 
 
 ## My Skill Set  
